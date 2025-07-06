@@ -84,9 +84,6 @@ For suggestions or improvements, feel free to contribute!
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ```
 
