@@ -73,7 +73,7 @@ money-tracker/
 
 ## 📸 Preview
 
-![App Preview]<img width="1919" height="777" alt="Image" src="https://github.com/user-attachments/assets/fcc44651-897b-4069-9ee8-8622845e71eb" />
+<img width="1919" height="777" alt="Image" src="https://github.com/user-attachments/assets/fcc44651-897b-4069-9ee8-8622845e71eb" />
 
 ---
 
