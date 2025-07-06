@@ -1,14 +1,7 @@
 
----
-
-````markdown
 # 💰 Money Tracker Web App
 
 A simple and colorful web application that helps you track your daily expenses efficiently. Add, view, and delete your expense entries across different categories with ease!
-
-
-
----
 
 ## 🚀 Features
 
@@ -18,15 +11,12 @@ A simple and colorful web application that helps you track your daily expenses e
 - ❌ Delete any entry quickly
 - 🎨 Clean UI with a colorful gradient background
 
----
 
 ## 🛠️ Tech Stack
 
 - 🌐 HTML
 - 🎨 CSS
 - ⚙️ JavaScript
-
----
 
 ## 📂 Project Structure
 
@@ -39,7 +29,6 @@ money-tracker/
 └── screenshot.png     # UI preview
 ````
 
----
 
 ## 🧾 How to Use
 
@@ -48,8 +37,6 @@ money-tracker/
 3. Click the **Add** button to add it to the expenses list.
 4. Use the **Delete** buttons to remove any entry.
 5. The total amount updates automatically.
-
----
 
 ## ✅ Categories Supported
 
@@ -60,7 +47,6 @@ money-tracker/
 * Shopping
 * (You can customize more in the dropdown!)
 
----
 
 ## 📌 Future Improvements
 
@@ -69,7 +55,6 @@ money-tracker/
 * Export expense list to CSV.
 * Mobile responsiveness.
 
----
 
 ## 📸 Preview
 
@@ -79,13 +64,8 @@ money-tracker/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by \[Pratik Kamble]
+Made with ❤️ by Pratik Kamble
 For suggestions or improvements, feel free to contribute!
 
----
 
-
-```
-
----
 
